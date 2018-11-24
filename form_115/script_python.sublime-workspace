@@ -1,0 +1,2074 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+			[
+				"cons",
+				"consumer"
+			],
+			[
+				"enum",
+				"enum_types_log.js"
+			],
+			[
+				"typ",
+				"types_log"
+			],
+			[
+				"is",
+				"is_worker_1\tbool "
+			],
+			[
+				"b",
+				"bind"
+			],
+			[
+				"arg",
+				"arguments\t[] "
+			],
+			[
+				"get",
+				"get\tfn "
+			],
+			[
+				"g",
+				"get\tGet Elements"
+			],
+			[
+				"const",
+				"constructor"
+			],
+			[
+				"c",
+				"clg\tclg"
+			],
+			[
+				"a",
+				"arguments"
+			],
+			[
+				"router",
+				"router_report.js"
+			],
+			[
+				"set",
+				"set_CONTEXT\tset_CONTEXT"
+			],
+			[
+				"fi",
+				"fi_analyze_banks.js"
+			],
+			[
+				"dat",
+				"data_for_picker_year_month.js"
+			],
+			[
+				"page_",
+				"page_interface_select_memo_on_banks/"
+			],
+			[
+				"check",
+				"check_conditions\tfn "
+			],
+			[
+				"view",
+				"view_reports_to_xlsx.js"
+			],
+			[
+				"page",
+				"page_select_report/"
+			],
+			[
+				"html",
+				"html_get_report.js"
+			],
+			[
+				"sele",
+				"selected_year"
+			],
+			[
+				"root",
+				"root_1"
+			],
+			[
+				"id",
+				"id_or_dom\t? "
+			],
+			[
+				"scrool",
+				"scroll_into_view\t{} "
+			],
+			[
+				"tempal",
+				"template_page2.js"
+			],
+			[
+				"scroll",
+				"scroll_into_view.js"
+			],
+			[
+				"Err",
+				"Error_add_dates"
+			],
+			[
+				"Error",
+				"Error_for_ui_element\tfn "
+			],
+			[
+				"len",
+				"length"
+			],
+			[
+				"ui_",
+				"ui_pick_year_month\t? "
+			],
+			[
+				"@de",
+				"@deprecated"
+			],
+			[
+				"memo",
+				"memo_on_banks/"
+			],
+			[
+				"parse",
+				"parseInt\tfn "
+			],
+			[
+				"ui",
+				"Ui_pick_year_month"
+			],
+			[
+				"_cb",
+				"_cb_for_get_pick_dates\tfn "
+			],
+			[
+				"obje_",
+				"obj_dates"
+			],
+			[
+				"render",
+				"render_first\tfn "
+			],
+			[
+				"get_",
+				"get_html"
+			],
+			[
+				"date",
+				"date_month\t? "
+			],
+			[
+				"obj",
+				"obj_date\t{} "
+			],
+			[
+				"helper",
+				"helper_cancel_pick\tfn "
+			],
+			[
+				"sle",
+				"selected_date"
+			],
+			[
+				"add",
+				"addEventListener\tfn "
+			],
+			[
+				"picker",
+				"arrows-picker-year-date"
+			],
+			[
+				"View",
+				"View_show_hide_tables\tfn "
+			],
+			[
+				"if",
+				"if_not_check_limit"
+			],
+			[
+				"_limit",
+				"_list_year_month_api\t{} "
+			],
+			[
+				"dis",
+				"disable_date\tbool "
+			],
+			[
+				"to",
+				"toString\tfn "
+			],
+			[
+				"inser",
+				"insertAdjacentHTML\tinsertAdjacentHTML"
+			],
+			[
+				"db",
+				"db/"
+			],
+			[
+				"CON",
+				"CONTEXT\t{} "
+			],
+			[
+				"reg",
+				"reg_num\t? "
+			],
+			[
+				"list",
+				"list_years"
+			],
+			[
+				"bank",
+				"bank_name"
+			],
+			[
+				"alais",
+				"alias_static_name"
+			],
+			[
+				"alias",
+				"alias_static_name"
+			],
+			[
+				"sber",
+				"sberbank_id\tnum "
+			],
+			[
+				"margi",
+				"margin-top"
+			],
+			[
+				"L",
+				"LMI_PAYMENT_NO"
+			],
+			[
+				"payem",
+				"payment_till"
+			],
+			[
+				"logg",
+				"logger_server.js"
+			],
+			[
+				"payme",
+				"payment_info\t? "
+			],
+			[
+				"paymen",
+				"payment_info"
+			],
+			[
+				"payment",
+				"payment_id"
+			],
+			[
+				"fn",
+				"fun\tFunction"
+			],
+			[
+				"func",
+				"function\t? "
+			],
+			[
+				"create",
+				"create_payment"
+			],
+			[
+				"svg",
+				"svg_mastercard"
+			],
+			[
+				"старни",
+				"страницу"
+			],
+			[
+				"head",
+				"head.js"
+			],
+			[
+				"node",
+				"nodejs/"
+			],
+			[
+				"Driver",
+				"Driver_router2.js"
+			],
+			[
+				"reg_",
+				"reg_num\t? "
+			],
+			[
+				"type",
+				"type_from_file\t? "
+			],
+			[
+				"@nam",
+				"@namespace"
+			],
+			[
+				"by",
+				"by_column"
+			],
+			[
+				"payemnt",
+				"payment_id"
+			],
+			[
+				"Fi",
+				"Fi_analyze"
+			],
+			[
+				"redire",
+				"redirect_api.js"
+			],
+			[
+				"tr",
+				"trace\tfn "
+			],
+			[
+				"end",
+				"end_request"
+			],
+			[
+				"Web",
+				"Web_api\t? "
+			],
+			[
+				"en",
+				"end_request\tfn "
+			],
+			[
+				"try",
+				"tryCatch\ttryCatch"
+			],
+			[
+				"user",
+				"user_id"
+			],
+			[
+				"expo",
+				"exports"
+			],
+			[
+				"url",
+				"url_object\t{} "
+			],
+			[
+				"cont",
+				"constructor"
+			],
+			[
+				"Route",
+				"Router_path_query.js"
+			],
+			[
+				"value",
+				"value_from_url\tstr "
+			],
+			[
+				"path",
+				"path_name\t{} "
+			],
+			[
+				"first",
+				"first_query_param\tstr "
+			],
+			[
+				"fil",
+				"filter\tfn "
+			],
+			[
+				"Has",
+				"_hash"
+			],
+			[
+				"valida",
+				"validator_query\t? "
+			],
+			[
+				"crea",
+				"create_path_name"
+			],
+			[
+				"path_",
+				"path_query\t? "
+			],
+			[
+				"_rout",
+				"_routes_regexp\t[] "
+			],
+			[
+				"url_",
+				"url_keys"
+			],
+			[
+				"HAs",
+				"hash_order.js"
+			],
+			[
+				"do",
+				"document\t{} "
+			],
+			[
+				"re",
+				"read_buffer(path, cb)\tfn "
+			],
+			[
+				"read",
+				"read_buffer(path, cb)\tfn "
+			],
+			[
+				"d",
+				"doSomething\tfn "
+			],
+			[
+				"@n",
+				"@namespace"
+			],
+			[
+				"e",
+				"each\tfn "
+			],
+			[
+				"pa",
+				"payment_db\t{} "
+			],
+			[
+				"css",
+				"css_fonts.js"
+			],
+			[
+				"E",
+				"Enum_payment.js"
+			],
+			[
+				"stat",
+				"static\t? "
+			],
+			[
+				"sta",
+				"status\t? "
+			],
+			[
+				"transform",
+				"transform_url.js"
+			],
+			[
+				"uer",
+				"user_id"
+			],
+			[
+				"A",
+				"ArrayBuffer\tfn "
+			],
+			[
+				"COn",
+				"CONTEXT\t{} "
+			],
+			[
+				"pay",
+				"payment_info\t? "
+			],
+			[
+				"sett",
+				"settings.js"
+			],
+			[
+				"fi_a",
+				"fi_analyze_payment.js"
+			],
+			[
+				"req",
+				"require"
+			],
+			[
+				"le",
+				"len_param\tnum "
+			],
+			[
+				"Auth",
+				"auth_api.js"
+			],
+			[
+				"ser",
+				"logger_server.js"
+			],
+			[
+				"IS",
+				"IS_PAYMENT\tbool "
+			],
+			[
+				"oop",
+				"oop.js"
+			],
+			[
+				"test",
+				"test_template.js"
+			],
+			[
+				"rg",
+				"reg_num\t? "
+			],
+			[
+				"_",
+				"_new_name_part\tstr "
+			]
+		]
+	},
+	"buffers":
+	[
+		{
+			"file": "verify_115.py",
+			"settings":
+			{
+				"buffer_size": 3948,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "/Users/annakamaeva/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+			"settings":
+			{
+				"buffer_size": 21437,
+				"encoding": "UTF-8",
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 111.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"ui",
+				"UI: Select Theme"
+			],
+			[
+				"theme",
+				"UI: Select Theme"
+			],
+			[
+				"show",
+				"SublimeLinter: Show All Errors"
+			],
+			[
+				"remove",
+				"Package Control: Remove Package"
+			],
+			[
+				"magic",
+				"Set Syntax: MagicPython"
+			],
+			[
+				"install",
+				"Package Control: Install Package"
+			],
+			[
+				"ana",
+				"Anaconda: Goto object definition"
+			],
+			[
+				"set syntax pyth",
+				"Set Syntax: Python"
+			],
+			[
+				"list",
+				"Package Control: List Packages"
+			],
+			[
+				"send",
+				"Package Control: Satisfy Dependencies"
+			],
+			[
+				"renam",
+				"Rename File"
+			],
+			[
+				"rename",
+				"Rename File"
+			],
+			[
+				"move",
+				"File: Move"
+			],
+			[
+				"babel",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"perl",
+				"Set Syntax: Perl"
+			],
+			[
+				"html bea",
+				"HTMLBeautify"
+			],
+			[
+				"disbel",
+				"Package Control: Disable Package"
+			],
+			[
+				"terna",
+				"tern_for_sublime: Enable Project"
+			],
+			[
+				"Packa",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"PackageRe",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"Color",
+				"Color Scheme Editor: Edit current color scheme"
+			],
+			[
+				"ColorSchemeEditor",
+				"Color Scheme Editor: Goto previous matching scope"
+			],
+			[
+				"htmlB",
+				"HTMLBeautify"
+			],
+			[
+				"insall",
+				"Package Control: Install Package"
+			],
+			[
+				"js",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"html",
+				"Set Syntax: HTML"
+			],
+			[
+				"els",
+				"ESLint"
+			],
+			[
+				"e",
+				"ESLint"
+			],
+			[
+				"eslint",
+				"ESLint"
+			],
+			[
+				"hande",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"handle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"esli",
+				"ESLint"
+			],
+			[
+				"minify",
+				"Pretty JSON: Minify (compress) JSON"
+			],
+			[
+				"mini",
+				"Minify Javascript/CSS"
+			],
+			[
+				"es",
+				"ESLint"
+			],
+			[
+				"elsint",
+				"ESLint"
+			],
+			[
+				"sql",
+				"Set Syntax: SQL"
+			],
+			[
+				"hnadle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"elsin",
+				"ESLint"
+			],
+			[
+				"esl",
+				"ESLint"
+			],
+			[
+				"hdnle",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"insta",
+				"Package Control: Install Package"
+			],
+			[
+				"hanlde",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"enbal",
+				"Package Control: Enable Package"
+			],
+			[
+				"enabl",
+				"Package Control: Enable Package"
+			],
+			[
+				"next",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"json",
+				"Set Syntax: JSON"
+			],
+			[
+				"enable",
+				"Package Control: Enable Package"
+			],
+			[
+				"go",
+				"GoSublime: Browse Files"
+			],
+			[
+				"hand",
+				"Snippet: handlebars template"
+			],
+			[
+				"text",
+				"Set Syntax: Plain Text"
+			],
+			[
+				"handl",
+				"Set Syntax: Handlebars"
+			],
+			[
+				"bea",
+				"HTMLBeautify"
+			],
+			[
+				"she",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"prett",
+				"Pretty JSON: Format (Pretty Print) JSON"
+			],
+			[
+				"bab",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"babrl",
+				"Babel Transform"
+			],
+			[
+				"beaut",
+				"HTMLBeautify"
+			],
+			[
+				"Html",
+				"HTMLBeautify"
+			],
+			[
+				"beau",
+				"HTMLBeautify"
+			],
+			[
+				"cron",
+				"Set Syntax: Crontab"
+			],
+			[
+				"instal",
+				"Package Control: Install Package"
+			],
+			[
+				"shell",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"cront",
+				"Set Syntax: Crontab"
+			],
+			[
+				"disabel",
+				"Package Control: Disable Package"
+			],
+			[
+				"disa",
+				"Package Control: Disable Package"
+			],
+			[
+				"ena",
+				"Package Control: Enable Package"
+			],
+			[
+				"php",
+				"Set Syntax: PHP"
+			],
+			[
+				"",
+				"Convert Case: Lower Case"
+			],
+			[
+				"pac",
+				"Package Control: Remove Package"
+			],
+			[
+				"list ",
+				"Package Control: List Packages"
+			],
+			[
+				"ins",
+				"Package Control: Install Package"
+			],
+			[
+				"apcka",
+				"Package Control: List Packages"
+			],
+			[
+				"remov",
+				"Package Control: Remove Package"
+			],
+			[
+				"disble",
+				"Package Control: Disable Package"
+			],
+			[
+				"web",
+				"Build: New Build System"
+			],
+			[
+				"w",
+				"Snippet: console.warn"
+			],
+			[
+				"disable",
+				"Package Control: Disable Package"
+			],
+			[
+				"pakage",
+				"Package Control: Enable Package"
+			],
+			[
+				"sql-inser",
+				"Snippet: sql-insert-one"
+			],
+			[
+				"bael",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"ba",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"baba",
+				"Preferences: Babel – Default"
+			],
+			[
+				"babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"sql-ins",
+				"Snippet: sql-insert-one"
+			],
+			[
+				"sql-in",
+				"Snippet: sql-insert-one"
+			],
+			[
+				"package",
+				"Package Control: List Packages"
+			],
+			[
+				"color",
+				"DocBlockr: Decorate line comment"
+			],
+			[
+				"sett",
+				"Preferences: Settings – Syntax Specific"
+			],
+			[
+				"sql-chan",
+				"Snippet: sql-alter-change"
+			],
+			[
+				"phan",
+				"Snippet: BDD it asynchronous"
+			],
+			[
+				"macros",
+				"Bookmarks: Select Previous"
+			],
+			[
+				"packa",
+				"Package Control: Install Package"
+			],
+			[
+				"vin",
+				"View: Toggle Open Files in Side Bar"
+			],
+			[
+				"sql-j",
+				"Snippet: sql-join-left"
+			],
+			[
+				"Babe",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"sql-",
+				"Snippet: sql-update"
+			],
+			[
+				"sql-up",
+				"Snippet: sql-update"
+			],
+			[
+				"bas",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"sql-alter",
+				"Snippet: sql-alter-change"
+			],
+			[
+				"sql-tab",
+				"Snippet: sql-table"
+			],
+			[
+				"sql-cre",
+				"Snippet: sql-show-create"
+			],
+			[
+				"order",
+				"Snippet: sql-order-by"
+			],
+			[
+				"java",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"alter",
+				"Snippet: sql-alter-change"
+			],
+			[
+				"upda",
+				"Snippet: sql-update"
+			],
+			[
+				"sq",
+				"Set Syntax: SQL"
+			],
+			[
+				"sql-al",
+				"Snippet: sql-alter-change"
+			],
+			[
+				"Snippet: new",
+				"Snippet: console.warn"
+			],
+			[
+				"bash",
+				"Set Syntax: Shell Script (Bash)"
+			],
+			[
+				"find",
+				"Find: In Current Folder"
+			],
+			[
+				"ja",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"j",
+				"Set Syntax: JavaScript"
+			],
+			[
+				"font",
+				"File: Open In Browser - Testing Server"
+			],
+			[
+				"upp",
+				"Convert Case: Upper Case"
+			],
+			[
+				"upper",
+				"Convert Case: Upper Case"
+			],
+			[
+				"pack",
+				"Package Control: Install Package"
+			],
+			[
+				"htm",
+				"Set Syntax: HTML"
+			],
+			[
+				"repl per",
+				"SublimeREPL: Perl"
+			],
+			[
+				"snip",
+				"Snippet: Object key — key: \"value\""
+			],
+			[
+				"view",
+				"PackageResourceViewer: Open Resource"
+			],
+			[
+				"inst",
+				"Package Control: Install Package"
+			],
+			[
+				"isnta",
+				"Package Control: Install Package"
+			],
+			[
+				"nex",
+				"Set Syntax: JavaScript Next"
+			],
+			[
+				"h",
+				"Set Syntax: HTML"
+			],
+			[
+				"javas",
+				"Set Syntax: JavaScript (Babel)"
+			],
+			[
+				"insat",
+				"Package Control: Install Package"
+			],
+			[
+				"plain ",
+				"Set Syntax: Plain Text"
+			]
+		],
+		"width": 521.0
+	},
+	"console":
+	{
+		"height": 167.0,
+		"history":
+		[
+			"view.run_command('example')",
+			"view.run_command(\"ExampleCommand\")",
+			"view.run_command(\"view.run_command(\"\")\")",
+			"view.run_command(\"go\")",
+			"view.scope_name(view.sel()[0].begin())",
+			"var a=3;",
+			"import urllib.request,os,hashlib; h = '2deb499853c4371624f5a07e27c334aa' + 'bf8c4e67d14fb0525ba4f89698a6d7e1'; pf = 'Package Control.sublime-package'; ipp = sublime.installed_packages_path(); urllib.request.install_opener( urllib.request.build_opener( urllib.request.ProxyHandler()) ); by = urllib.request.urlopen( 'http://packagecontrol.io/' + pf.replace(' ', '%20')).read(); dh = hashlib.sha256(by).hexdigest(); print('Error validating download (got %s instead of %s), please try manual install' % (dh, h)) if dh != h else open(os.path.join( ipp, pf), 'wb' ).write(by)"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/Users/annakamaeva/Desktop/sandbox ",
+		"/Users/annakamaeva/Desktop/sandbox /script_python",
+		"/Users/annakamaeva/Desktop/sandbox /script_python/form_115"
+	],
+	"file_history":
+	[
+		"/Users/annakamaeva/Library/Application Support/Sublime Text 3/Packages/User/Anaconda.sublime-settings",
+		"/Users/annakamaeva/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+		"/Users/annakamaeva/Library/Application Support/Sublime Text 3/Packages/User/Default (OSX).sublime-keymap",
+		"/Users/dmitrijd/Desktop/Start/node_rabbitmq/.gitignore",
+		"/Users/dmitrijd/Desktop/Start/node_rabbitmq/sixthly_rpc/rpc_server.js",
+		"/Users/dmitrijd/Desktop/Start/node_rabbitmq/sixthly_rpc/rpc_client.js",
+		"/Users/dmitrijd/Desktop/Start/node_rabbitmq/fifthly_topics/receive.js",
+		"/Users/dmitrijd/Desktop/Start/node_rabbitmq/fifthly_topics/emit_log.js",
+		"/Users/dmitrijd/Desktop/Start/node_rabbitmq/fourthly_routing/receive_err.js",
+		"/Users/dmitrijd/Desktop/Start/node_rabbitmq/fourthly_routing/receive_log_and_warn.js",
+		"/Users/dmitrijd/Desktop/Start/node_rabbitmq/fourthly_routing/emit_log.js",
+		"/Users/dmitrijd/Desktop/Start/node_rabbitmq/fourthly_routing/enum_types_log.js",
+		"/Users/dmitrijd/Desktop/Start/node_rabbitmq/thirdly_publish_subscribe/receive.js",
+		"/Users/dmitrijd/Desktop/Start/node_rabbitmq/thirdly_publish_subscribe/emit_log.js",
+		"/Users/dmitrijd/Desktop/Start/node_rabbitmq/thirdly_publish_subscribe/receive_ack.js",
+		"/Users/dmitrijd/Desktop/Start/node_rabbitmq/secondly_work_queues/send.js",
+		"/Users/dmitrijd/Desktop/Start/node_rabbitmq/secondly_work_queues/receive_ack.js",
+		"/Users/dmitrijd/Desktop/Start/node_rabbitmq/secondly_work_queues/receive_prefetch.js",
+		"/Users/dmitrijd/Desktop/Start/node_rabbitmq/secondly_work_queues/receive.js",
+		"/Users/dmitrijd/Desktop/Start/node_rabbitmq/config/config.js",
+		"/Users/dmitrijd/Desktop/Start/node_rabbitmq/firstly_hello_world/send.js",
+		"/Users/dmitrijd/Desktop/Start/node_rabbitmq/firstly_hello_world/receive.js",
+		"/Desk/Start/NodeJS/util/rfolder.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/db/Db_crud.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/aj/aj_log_client_err_to_server.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/js/report_211.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/page_select_report/router_select_report.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/page_reports_to_xlsx/router_reports_to_xlsx.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/page_reports_to_xlsx/main_reports_to_xlsx.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/js/user_report.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/js/router_constructor_report.js",
+		"/Users/dmitrijd/Desktop/r_m/client/app_get_report.js",
+		"/Users/dmitrijd/Desktop/r_m/client/router.js",
+		"/r_m/nodejs/js/constructor_report.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/js/constructor_report.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/js/router_report.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/js/report_0409806.js",
+		"/Users/dmitrijd/Desktop/r_m/fi_analyze/parse_101.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/js/report_160.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/js/report_210.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/js/report_212.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/js/report_1011.js",
+		"/Users/dmitrijd/Desktop/r_m/fi_analyze/methods_single_report_101.js",
+		"/Users/dmitrijd/Desktop/r_m/fi_analyze/parse_135.js",
+		"/r_m/fi_analyze/describe_forms.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/report/base_one_report.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/report_1351/report_1351.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/js/view_report_0409806.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/report/report_1353.js",
+		"/Users/dmitrijd/Desktop/r_m/fi_analyze/schema_1353.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/oft/html_report_0409806.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/oft/display_report_0409806.js",
+		"/r_m/nodejs/oft/Fi_analyze_banks.js",
+		"/r_m/nodejs/db/fi_analyze_banks.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/js/Router_dynamic_page.js",
+		"/r_m/nodejs/js/router_report.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/js/server.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/page_select_report/main_select_report.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/page_interface_select_memo_on_banks/main_interface_select_memo_on_banks.js",
+		"/Users/dmitrijd/Desktop/r_m/fi_analyze/describe_forms.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/page_interface_select_memo_on_banks/view_interface_select_memo_on_banks.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/page_select_report/html_select_report.js",
+		"/var/folders/tr/011dgyhj0glflh4f99nv5mdm0000gn/T/rsub-v1ydqa/1160.log",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/page_reports_to_xlsx/view_reports_to_xlsx.js",
+		"/r_m/nodejs/report/middleware_check_number_reports_viewed.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/config.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/payment/router_payment.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/my/head.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/my/auth_api.js",
+		"/r_m/nodejs/my/Auth_api.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/db/fi_analyze_payment.js",
+		"/r_m/nodejs/my/redirect_api.js",
+		"/r_m/nodejs/js/download_reports_excel.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/oft/xlsx_reports.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/my/special_symbol_html.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/css/css_button.js",
+		"/r_m/nodejs/my/web_api.js",
+		"/Users/dmitrijd/Desktop/r_m/client/app_import_forms.js",
+		"/r_m/nodejs/my/template_page2.js",
+		"/Users/dmitrijd/Desktop/r_m/client/app_login.js",
+		"/r_m/nodejs/page_reports_to_xlsx/reports_to_xlsx.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/reports_to_xlsx/reports_to_xlsx.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/js/view_download_reports_excel.js",
+		"/Users/dmitrijd/Desktop/r_m/client/ui/Ui_pick_year_month.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/memo_on_banks/view_interface_for_memo_on_banks.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/page_select_report/view_select_report.js",
+		"/r_m/nodejs/page_select_report/html_get_report.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/page_select_report/html_get_report.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/my/client_js.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/memo_on_banks/data_for_picker_year_month.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/my/uglify.js",
+		"/Users/dmitrijd/Desktop/r_m/client/lib/scroll_into_view.js",
+		"/Users/dmitrijd/Desktop/r_m/client/orig_lib/scroll_into_view.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/js/main_poligon.js",
+		"/Users/dmitrijd/Library/Application Support/Sublime Text 3/Packages/Sepiarize Color Scheme/Sepia Colourful.tmTheme",
+		"/Users/dmitrijd/Desktop/r_m/client/app_form_feedback.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/svr/injection_client_lib.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/js/main_get_report.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/svr/injection_client_js.js",
+		"/Users/dmitrijd/Desktop/r_m/util/min_js.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/my/Generate_id.js",
+		"/Users/dmitrijd/Desktop/r_m/client/my/fn.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/my/fn2.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/svr/watchers.js",
+		"/Users/dmitrijd/Desktop/r_m/perl/Пароль.txt",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/js/get_report.js",
+		"/var/folders/tr/011dgyhj0glflh4f99nv5mdm0000gn/T/rsub-oes1rh/1145.log",
+		"/var/folders/tr/011dgyhj0glflh4f99nv5mdm0000gn/T/rsub-bob78c/139.log",
+		"/Users/dmitrijd/Desktop/r_m/client/my/time.js",
+		"/Users/dmitrijd/Desktop/r_m/client/example_component/component2.js",
+		"/Users/dmitrijd/Desktop/r_m/client/my/component.js",
+		"/Users/dmitrijd/Desktop/r_m/client/lib/awesomplete.js",
+		"/Users/dmitrijd/Desktop/r_m/client/orig_lib/awesomplete.js",
+		"/Users/dmitrijd/Desktop/r_m/client/app_balance_0409806.js",
+		"/r_m/nodejs/oft/html_get_report.js",
+		"/r_m/nodejs/memo_on_banks/view_interface_for_memo_on_banks.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/css/css_awesomplete.js",
+		"/Users/dmitrijd/Desktop/r_m/client/app_interface_for_memo_banks.js",
+		"/Users/dmitrijd/Desktop/r_m/auto_config/nginx_config.js",
+		"/r_m/nodejs/js/view_get_report.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/memo_on_banks/main_interface_for_memo_on_banks.js",
+		"/Users/dmitrijd/Desktop/r_m/client/fn.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/payment/view_create_payment.js",
+		"/r_m/nodejs/example/data_analysis_banks.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/payment/main_create_payment.js",
+		"/Users/dmitrijd/Desktop/r_m/.jshintrc",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/example/data_analysis_banks.js",
+		"/Users/dmitrijd/Desktop/r_m/nodejs/payment/main_success_payment.js"
+	],
+	"find":
+	{
+		"height": 40.0
+	},
+	"find_in_files":
+	{
+		"height": 124.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": true,
+		"find_history":
+		[
+			"format",
+			"lint"
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": false,
+		"whole_word": false,
+		"wrap": true
+	},
+	"folders":
+	[
+		{
+			"path": "/Users/annakamaeva/Desktop/sandbox "
+		}
+	],
+	"groups":
+	[
+		{
+			"selected": 0,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"file": "verify_115.py",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 3948,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								446,
+								446
+							]
+						],
+						"settings":
+						{
+							"SL.25.region_keys":
+							[
+							],
+							"SL.32.region_keys":
+							[
+							],
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/Python/Python.sublime-syntax",
+							"tab_size": 2,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/Users/annakamaeva/Library/Application Support/Sublime Text 3/Packages/Anaconda/Anaconda.sublime-settings",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 21437,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								7969,
+								7969
+							]
+						],
+						"settings":
+						{
+							"bracket_highlighter.busy": false,
+							"bracket_highlighter.clone": -1,
+							"bracket_highlighter.clone_locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.clone_regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"bracket_highlighter.locations":
+							{
+								"close":
+								{
+								},
+								"icon":
+								{
+								},
+								"open":
+								{
+								},
+								"unmatched":
+								{
+								}
+							},
+							"bracket_highlighter.regions":
+							[
+								"bh_default",
+								"bh_default_center",
+								"bh_default_open",
+								"bh_default_close",
+								"bh_default_content",
+								"bh_unmatched",
+								"bh_unmatched_center",
+								"bh_unmatched_open",
+								"bh_unmatched_close",
+								"bh_unmatched_content"
+							],
+							"encoding_helper_encoding": "UTF-8",
+							"encoding_thread_running": true,
+							"syntax": "Packages/JavaScriptNext - ES6 Syntax/JSON (JavaScriptNext).tmLanguage",
+							"tab_size": 4,
+							"translate_tabs_to_spaces": true
+						},
+						"translation.x": 0.0,
+						"translation.y": 3405.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 28.0
+	},
+	"input":
+	{
+		"height": 44.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.GoSublime-main-output":
+	{
+		"height": 124.0
+	},
+	"output.GoSublime-output":
+	{
+		"height": 124.0
+	},
+	"output.SublimeLinter":
+	{
+		"height": 130.0
+	},
+	"output.exec":
+	{
+		"height": 228.0
+	},
+	"output.find_results":
+	{
+		"height": 602.0
+	},
+	"output.mdpopups":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "Packages/User/node.sublime-build",
+	"project": "",
+	"replace":
+	{
+		"height": 52.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"router_reort",
+				"nodejs/page_reports_to_xlsx/router_reports_to_xlsx.js"
+			],
+			[
+				"DB_",
+				"nodejs/db/Db_crud.js"
+			],
+			[
+				"test.js",
+				"nodejs/js/test.js"
+			],
+			[
+				"aj_log",
+				"nodejs/aj/aj_log_client_err_to_server.js"
+			],
+			[
+				"fi_anly",
+				"nodejs/db/fi_analyze_banks.js"
+			],
+			[
+				"main_reports_to_xlsx",
+				"nodejs/page_reports_to_xlsx/main_reports_to_xlsx.js"
+			],
+			[
+				"router_report",
+				"nodejs/page_reports_to_xlsx/router_reports_to_xlsx.js"
+			],
+			[
+				"user_report",
+				"nodejs/js/user_report.js"
+			],
+			[
+				"clienrouter",
+				"client/router.js"
+			],
+			[
+				"app_get",
+				"client/app_get_report.js"
+			],
+			[
+				"construc",
+				"nodejs/js/constructor_report.js"
+			],
+			[
+				"constru",
+				"nodejs/js/router_constructor_report.js"
+			],
+			[
+				"router_repor",
+				"nodejs/js/router_report.js"
+			],
+			[
+				"report_211",
+				"nodejs/js/report_211.js"
+			],
+			[
+				"report",
+				"nodejs/js/report_1011.js"
+			],
+			[
+				"report_212",
+				"nodejs/js/report_212.js"
+			],
+			[
+				"210",
+				"nodejs/js/report_210.js"
+			],
+			[
+				"report_160",
+				"nodejs/js/report_160.js"
+			],
+			[
+				"nodejs/report/report_1353.js",
+				"nodejs/report/report_1353.js"
+			],
+			[
+				"nodejs/report_1351/report_1351.js",
+				"nodejs/report_1351/report_1351.js"
+			],
+			[
+				"nodejs/report/base_one_report.js",
+				"nodejs/report/base_one_report.js"
+			],
+			[
+				"fi_analyze/parse_135.js",
+				"fi_analyze/parse_135.js"
+			],
+			[
+				"report_13",
+				"nodejs/report/report_1353.js"
+			],
+			[
+				"1353",
+				"fi_analyze/schema_1353.js"
+			],
+			[
+				"Router",
+				"nodejs/js/Router_dynamic_page.js"
+			],
+			[
+				"server",
+				"nodejs/js/server.js"
+			],
+			[
+				"display_report_0409806",
+				"nodejs/oft/display_report_0409806.js"
+			],
+			[
+				"html_report_0409806",
+				"nodejs/oft/html_report_0409806.js"
+			],
+			[
+				"view_040",
+				"nodejs/js/view_report_0409806.js"
+			],
+			[
+				"report_1353",
+				"nodejs/report/report_1353.js"
+			],
+			[
+				"report_0409806",
+				"nodejs/js/report_0409806.js"
+			],
+			[
+				"page_select_report/html_select_report.js",
+				"nodejs/page_select_report/html_select_report.js"
+			],
+			[
+				"methods_single_report_101.js",
+				"fi_analyze/methods_single_report_101.js"
+			],
+			[
+				"describe",
+				"fi_analyze/describe_forms.js"
+			],
+			[
+				"fi_analyze/parse",
+				"fi_analyze/parse_101.js"
+			],
+			[
+				"config",
+				"nodejs/config.js"
+			],
+			[
+				"Router_dy",
+				"nodejs/js/Router_dynamic_page.js"
+			],
+			[
+				"head",
+				"nodejs/my/head.js"
+			],
+			[
+				"parse_101",
+				"fi_analyze/parse_101.js"
+			],
+			[
+				"Auth_api",
+				"nodejs/my/auth_api.js"
+			],
+			[
+				"Db_crud",
+				"nodejs/db/Db_crud.js"
+			],
+			[
+				"fi_analyze_payment",
+				"nodejs/db/fi_analyze_payment.js"
+			],
+			[
+				"dynamic",
+				"nodejs/js/Router_dynamic_page.js"
+			],
+			[
+				"css",
+				"nodejs/css/css_button.js"
+			],
+			[
+				"specis",
+				"nodejs/my/special_symbol_html.js"
+			],
+			[
+				"css_button",
+				"nodejs/css/css_button.js"
+			],
+			[
+				"page_reports_to_xlsx/view_reports_to_xlsx.js",
+				"nodejs/page_reports_to_xlsx/view_reports_to_xlsx.js"
+			],
+			[
+				"app_imop",
+				"client/app_import_forms.js"
+			],
+			[
+				"app_login",
+				"client/app_login.js"
+			],
+			[
+				"reports_to_xlsx",
+				"nodejs/page_reports_to_xlsx/reports_to_xlsx.js"
+			],
+			[
+				"auth_api",
+				"nodejs/my/auth_api.js"
+			],
+			[
+				"router_reports_to_xlsx",
+				"nodejs/js/router_reports_to_xlsx.js"
+			],
+			[
+				"Router_dynamic_page",
+				"nodejs/js/Router_dynamic_page.js"
+			],
+			[
+				"view_download_reports_excel",
+				"nodejs/js/view_download_reports_excel.js"
+			],
+			[
+				"main",
+				"nodejs/js/main_get_report.js"
+			],
+			[
+				"client",
+				"nodejs/my/client_js.js"
+			],
+			[
+				"data_pick",
+				"nodejs/memo_on_banks/data_for_picker_year_month.js"
+			],
+			[
+				"uglify",
+				"nodejs/my/uglify.js"
+			],
+			[
+				"data_for_picker_year_month",
+				"nodejs/memo_on_banks/data_for_picker_year_month.js"
+			],
+			[
+				"app_form_feedback",
+				"client/app_form_feedback.js"
+			],
+			[
+				"view_inter",
+				"nodejs/memo_on_banks/view_interface_for_memo_on_banks.js"
+			],
+			[
+				"get_report",
+				"nodejs/js/get_report.js"
+			],
+			[
+				"inject",
+				"nodejs/svr/injection_client_lib.js"
+			],
+			[
+				"nodejs/my/uglify.js",
+				"nodejs/my/uglify.js"
+			],
+			[
+				"nodejs/svr/injection_client_js.js",
+				"nodejs/svr/injection_client_js.js"
+			],
+			[
+				"util/min_js.js",
+				"util/min_js.js"
+			],
+			[
+				"min",
+				"util/min_js.js"
+			],
+			[
+				"Generate_id",
+				"nodejs/my/Generate_id.js"
+			],
+			[
+				"memo",
+				"nodejs/memo_on_banks/view_interface_for_memo_on_banks.js"
+			],
+			[
+				"fn2",
+				"nodejs/my/fn2.js"
+			],
+			[
+				"watch",
+				"nodejs/svr/watchers.js"
+			],
+			[
+				"nodejs/svr/watchers.js",
+				"nodejs/svr/watchers.js"
+			],
+			[
+				"view_get",
+				"nodejs/js/view_get_report.js"
+			],
+			[
+				"get",
+				"nodejs/js/get_report.js"
+			],
+			[
+				"html_get_report",
+				"nodejs/oft/html_get_report.js"
+			],
+			[
+				"Пароль",
+				"perl/Пароль.txt"
+			],
+			[
+				"special",
+				"nodejs/my/special_symbol_html.js"
+			],
+			[
+				"Ui_pick_year_month",
+				"client/ui/Ui_pick_year_month.js"
+			],
+			[
+				"po",
+				"nodejs/js/main_poligon.js"
+			],
+			[
+				"nginx",
+				"auto_config/nginx_config.js"
+			],
+			[
+				"aweso",
+				"client/orig_lib/awesomplete.js"
+			],
+			[
+				"awesome",
+				"nodejs/css/css_awesomplete.js"
+			],
+			[
+				"interfa",
+				"nodejs/memo_on_banks/main_interface_for_memo_on_banks.js"
+			],
+			[
+				"app_int",
+				"client/app_interface_for_memo_banks.js"
+			],
+			[
+				"app_get_report",
+				"client/app_get_report.js"
+			],
+			[
+				".js",
+				".jshintrc"
+			],
+			[
+				"Data",
+				"nodejs/example/data_analysis_banks.js"
+			],
+			[
+				"main_create",
+				"nodejs/payment/main_create_payment.js"
+			],
+			[
+				"view_create",
+				"nodejs/payment/view_create_payment.js"
+			],
+			[
+				"fi_analy",
+				"nodejs/db/fi_analyze_payment.js"
+			],
+			[
+				"success",
+				"nodejs/payment/main_success_payment.js"
+			],
+			[
+				"time2",
+				"nodejs/my/time2.js"
+			],
+			[
+				"middleware_check_number_reports_viewed",
+				"nodejs/report/middleware_check_number_reports_viewed.js"
+			],
+			[
+				"router_memo_bank",
+				"nodejs/memo_bank/router_memo_bank.js"
+			],
+			[
+				"dynam",
+				"nodejs/js/Router_dynamic_page.js"
+			],
+			[
+				"nodejs/exec/router_exec.js",
+				"nodejs/exec/router_exec.js"
+			],
+			[
+				"docuemt",
+				"by_hand/mount_document.sh"
+			],
+			[
+				"html_footer",
+				"nodejs/oft/html_footer.js"
+			],
+			[
+				"tpl",
+				"nodejs/my/tpl.js"
+			],
+			[
+				"view_create_payment",
+				"nodejs/payment/view_create_payment.js"
+			],
+			[
+				"Generate",
+				"nodejs/my/Generate_id.js"
+			],
+			[
+				"test_",
+				"nodejs/db/test_Db_crud.js"
+			],
+			[
+				"Genera",
+				"nodejs/my/Generate_id.js"
+			],
+			[
+				"router_pay",
+				"nodejs/payment/router_payment.js"
+			],
+			[
+				"main_cre",
+				"nodejs/payment/main_create_payment.js"
+			],
+			[
+				"input",
+				"nodejs/css/css_input.js"
+			],
+			[
+				"heade",
+				"nodejs/oft/html_header.js"
+			],
+			[
+				"footer",
+				"nodejs/oft/html_footer.js"
+			],
+			[
+				"media",
+				"nodejs/my/Media_screen.js"
+			],
+			[
+				"pol",
+				"nodejs/js/main_poligon.js"
+			],
+			[
+				"create_pay",
+				"nodejs/payment/view_create_payment.js"
+			],
+			[
+				"about",
+				"nodejs/about_us/view_about_us.js"
+			],
+			[
+				"special_symbol_html",
+				"nodejs/my/special_symbol_html.js"
+			],
+			[
+				"header",
+				"nodejs/oft/html_header.js"
+			],
+			[
+				"view_memo",
+				"nodejs/memo_on_banks/view_interface_for_memo_on_banks.js"
+			],
+			[
+				"client_js",
+				"nodejs/my/client_js.js"
+			],
+			[
+				"template",
+				"nodejs/my/template_page2.js"
+			],
+			[
+				"alais",
+				"nodejs/general/alias_static_api.js"
+			],
+			[
+				"css_class.js",
+				"nodejs/css/css_class.js"
+			],
+			[
+				"css_id",
+				"nodejs/css/css_id.js"
+			],
+			[
+				"rename",
+				"only_one/rename_form_for_bank.js"
+			],
+			[
+				"Router_path_name",
+				"nodejs/my/router/Router_path_name.js"
+			],
+			[
+				"random",
+				"nodejs/my/random.js"
+			],
+			[
+				"app_lar",
+				"client/app_large_corporative_loans.js"
+			],
+			[
+				"app_stress",
+				"client/app_save_result_stress_test.js"
+			],
+			[
+				"fi_ana",
+				"nodejs/db/fi_analyze_banks.js"
+			],
+			[
+				"db_curd",
+				"nodejs/db/Db_crud.js"
+			],
+			[
+				"fi_analyze_banks",
+				"nodejs/db/fi_analyze_banks.js"
+			]
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": true,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 231.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}
