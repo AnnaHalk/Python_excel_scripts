@@ -1,3 +1,5 @@
+/acra/*.xlsx
+/ernst_young/*.xlsx
 /doc_form_115/*
 !/doc_form_115/.gitkeep
 __pycache__

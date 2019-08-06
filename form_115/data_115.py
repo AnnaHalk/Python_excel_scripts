@@ -34,7 +34,7 @@ def filter_by_LLP_group(sheet, required_LLP_group):
     #print(bank_id, bank_name, LLP_group, LLP_ratio)
       res.append({
         'LLP_group': LLP_group,
-        'customer_id': customer_id, # ternar operator for
+        'customer_id': customer_id,
         'customer_name': customer_name,
         'LLP_ratio': round(LLP_ratio*100)
         #'credit_type': credit_type,
@@ -56,7 +56,7 @@ def list_rows():
 
 def f115_portf(file_path):
   book = openpyxl.load_workbook(file_path)
-  sheet = book['clients']
+  sheet = book['F115_v2019']
   sheet2 = book['pivot']
   debt_dict = {}
   total_debt_dict = {}
@@ -71,13 +71,14 @@ def f115_portf(file_path):
      debt_dict[full_id] = debt_dict.get(full_id) + debt/1000 #если несколько сумм у одного клиента, они складываются
     else:
       debt_dict.update({full_id : debt/1000})
+
+
   total_debt_dict = {
   2:sheet2.cell(row=9, column=3).value/1000,
   3:sheet2.cell(row=10, column=3).value/1000,
   4:sheet2.cell(row=11, column=3).value/1000,
   5:sheet2.cell(row=12, column=3).value/1000
   }
-  #print (total_debt_dict)
   return debt_dict, total_debt_dict
 
 
@@ -291,9 +292,9 @@ if __name__ == "__main__":
   four_risk_group = filter_by_LLP_group(sheet, 4)
   five_risk_group = filter_by_LLP_group(sheet, 5)
 
-  proc_dict, comis_dict, total_comis_dict, total_proc_dict = comis_proc('../doc_form_115/RVP_Comis_Proc.xlsx')
+  proc_dict, comis_dict, total_comis_dict, total_proc_dict = comis_proc('../doc_form_115/RVP_611-P.xlsx')
   reserve_dict, total_reserve_dict = reserve_principal('../doc_form_115/Rez_Bal.xlsx')
-  debt_dict, total_debt_dict = f115_portf('../doc_form_115/f115_portf.xlsx')
+  debt_dict, total_debt_dict = f115_portf('../doc_form_115/f115_cred-svodKK.xlsx')
 
 
   # f115_portf('./f115_portf.xlsx', list_rows())

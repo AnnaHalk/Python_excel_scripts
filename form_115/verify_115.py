@@ -49,7 +49,7 @@ def list_sums():
 
 def write_xlsx(list_sums):
   # запись в файл
-  wb = openpyxl.load_workbook('./data_115.xlsx')
+  wb = openpyxl.load_workbook('../doc_form_115/./data_115.xlsx')
   ws = wb['total']
 
   for i in range(0, len(list_sums)):
@@ -95,7 +95,7 @@ def write_xlsx(list_sums):
 
 if __name__ == "__main__":
 
-  book = openpyxl.load_workbook('./data_115.xlsx')
+  book = openpyxl.load_workbook('../doc_form_115/./data_115.xlsx')
   sheet = book['data']
 
   two_risk_group = sum_data(sheet, 2)
